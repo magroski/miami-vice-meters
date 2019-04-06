@@ -1,3 +1,5 @@
+![image](https://github.com/magroski/miami-vice-meters/blob/master/sample.png)
+
 This is a skin and layout bundle created to be used with [Rainmeter](https://www.rainmeter.net/).
 
 The skin is composed of 4 different modules:
