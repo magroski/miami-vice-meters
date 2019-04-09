@@ -35,6 +35,6 @@ With
     CoreTempType=MaxTemperature
 ```
 
-2. Is it possible to change the background transparency?
+2. Is it possible to change the background transparency/color/font/... ?
 
-Yes. On the [Rainmeter] section of each .ini, change the value of `SolidColor=0,0,0,25` to whatever you like. The format is `Red, Green, Blue, Opacity` with values ranging from 0 to 255.
+Yes. Background can be changed on the Rainmeter.inc file found on the Resources folder. Most common variables can be found on the Variables.inc file on the Resource folder. Specific things will have to be changed on a per skin basis.
